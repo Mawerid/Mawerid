@@ -15,7 +15,7 @@ You can see set of mostly used technologies and libraries below:
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![CatBoost](https://img.shields.io/badge/-CatBoost-0000?&logo=&color=yellow&logoColor=white)
+![CatBoost](https://img.shields.io/badge/CatBoost-uy?style=for-the-badge&logoColor=yellow&color=yellow)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 <!---
