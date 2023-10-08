@@ -1,4 +1,4 @@
-***Hello there*** My name is **Maxim Monastyrnyy**. Currently I'm a computer science student at NRNU MEPhI, Moscow. I am interested in machine and deep learning research, robotics and computer vision.
+***Hello there*** <br> My name is **Maxim Monastyrnyy**. Currently I'm a computer science student at NRNU MEPhI, Moscow. I am interested in machine and deep learning research, robotics and computer vision.
 
 ### :computer: List of technologies
 
