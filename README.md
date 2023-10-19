@@ -24,7 +24,7 @@ My work experience will be here...
 --->
 ### :rocket: Projects
 
-* [Particle detection from ITER](https://github.com/mawerid/Image_Analisys_ITER) - detection of metal particles for [ITER](https://www.iter.org/) through the [Department of Plasma Physics (No. 21)](http://plasma.mephi.ru/ru/).
+* [Particle detection](https://github.com/mawerid/metal_particle_detection) - detection of metal particles for the [Department of Plasma Physics (No. 21)](http://plasma.mephi.ru/ru/).
 * [Muon's track recocstruction by neural networks](https://github.com/mawerid/muon_NN_NEVOD) - сosmic ray muon track reconstruction using deep learning methods from [NEVOD](http://ununevod.mephi.ru/en/) detector's data.
 * [Battlebot](https://github.com/mawerid/battlebot_mephi) - project that created a 110kg combat robot to compete in the "[Bitva Robotov](https://bitva-robotov.ru/)" competition.
 
