@@ -2,7 +2,7 @@
 
 ### :computer: List of technologies
 
-My main programming languages are Python and C++. I know both classical machine learning methods (linear regression, gradient boosting, SVM, naive Bayesian e.g.) and the theory of neural networks (especially convolutional networks). I also have experience in developing autonomous and controllable robotic systems. You can also check out my [Kaggle account](https://www.kaggle.com/maximmawerid).
+My main programming languages are Python and C++. I know both classical machine learning methods (linear regression, gradient boosting, SVM, naive Bayesian e.g.) and the theory of neural networks (especially convolutional networks). I also have experience in developing autonomous and controllable robotic systems. <!---You can also check out my [Kaggle account](https://www.kaggle.com/maximmawerid). --->
 
 You can see set of mostly used technologies and libraries below:
 
